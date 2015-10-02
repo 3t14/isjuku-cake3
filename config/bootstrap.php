@@ -17,6 +17,7 @@
  * Configure paths required to find CakePHP + general filepath
  * constants
  */
+ 
 require __DIR__ . '/paths.php';
 
 // Use composer to load the autoloader.
